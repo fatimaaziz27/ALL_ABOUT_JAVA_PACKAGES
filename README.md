@@ -1,18 +1,25 @@
-## Getting Started
+## Student Management Program (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple Java program that demonstrates the use of **packages, classes, constructors, and objects**.
 
-## Folder Structure
+### Description
+- The `student` class stores student details such as name, age, and ID.
+- The `main` class creates a `student` object and displays the information.
 
-The workspace contains two folders by default, where:
+### Package
+- javadev
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### How It Works
+1. A `student` object is created using a constructor.
+2. The `displayInfo()` method prints student details to the console.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Sample Output
+Name: Fatima  
+Age: 20  
+ID: 12345
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Concepts Used
+- Java Packages  
+- Classes and Objects  
+- Constructors  
+- Methods
