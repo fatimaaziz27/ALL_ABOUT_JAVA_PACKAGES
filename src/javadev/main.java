@@ -1,5 +1,6 @@
 package javadev;
 import javadev.student;
+// main class
 public class main {
 
     public static void main(String[] args) {
